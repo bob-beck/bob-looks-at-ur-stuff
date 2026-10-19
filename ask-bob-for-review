@@ -1,1 +1,3 @@
-openssl-ci-bot:review_request_users: [beck@obtuse.com]
+beck@obtuse.com
+tb@openbsd.org
+beck@openbsd.org
